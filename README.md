@@ -1,4 +1,4 @@
-# PersistentRecyclerView
+# PersistentRecyclerView  RecyclerView + ViewPager/ViewPager2 + RecyclerView
 
 仿京东首页，整体是个长列表(ParentRecyclerView)，内嵌子列表 - 商品feeds流(ChildRecyclerView)，且商品流可以左右滑动。
 
